@@ -40,15 +40,3 @@ The app will run at http://localhost:3000.
 Scripts
 npm start: Runs the development server.
 npm run build: Builds the app for production.
-npm test: Runs tests (if any are set up).
-Folder Structure
-php
-
-/
-├── public/             # Public files (e.g., index.html)
-├── src/
-│   ├── components/     # React components
-│   ├── styles/         # Global styles (e.g., GlobalStyles)
-│   ├── App.jsx         # Main component
-│   ├── index.jsx       # Entry point for React
-└── package.json        # Project dependencies
